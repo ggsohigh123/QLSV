@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|d:\\dxd\\programming\\c# winform\\qlsv\\stumngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|solutionrelative:stumngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|d:\\dxd\\programming\\c# winform\\qlsv\\classmngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|solutionrelative:classmngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|d:\\dxd\\programming\\c# winform\\qlsv\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|d:\\dxd\\programming\\c# winform\\qlsv\\stumngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|solutionrelative:stumngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|d:\\dxd\\programming\\c# winform\\qlsv\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|d:\\dxd\\programming\\c# winform\\qlsv\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|d:\\dxd\\programming\\c# winform\\qlsv\\classmngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|solutionrelative:classmngform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|d:\\dxd\\programming\\c# winform\\qlsv\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|d:\\dxd\\programming\\c# winform\\qlsv\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|d:\\dxd\\programming\\c# winform\\qlsv\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AA7F8F2E-8DB1-4948-8924-DF94538474FC}|QLSV.csproj|solutionrelative:loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:51:55.748Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:45:18.296Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:45:06.897Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassMngForm.cs",
+              "DocumentMoniker": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\ClassMngForm.cs",
+              "RelativeDocumentMoniker": "ClassMngForm.cs",
+              "ToolTip": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\ClassMngForm.cs",
+              "RelativeToolTip": "ClassMngForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:18:58.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StuMngForm.cs",
+              "DocumentMoniker": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\StuMngForm.cs",
+              "RelativeDocumentMoniker": "StuMngForm.cs",
+              "ToolTip": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\StuMngForm.cs",
+              "RelativeToolTip": "StuMngForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:12:26.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassMngForm.cs [Design]",
+              "DocumentMoniker": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\ClassMngForm.cs",
+              "RelativeDocumentMoniker": "ClassMngForm.cs",
+              "ToolTip": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\ClassMngForm.cs [Design]",
+              "RelativeToolTip": "ClassMngForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:01:23.307Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StuMngForm.cs [Design]",
+              "DocumentMoniker": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\StuMngForm.cs",
+              "RelativeDocumentMoniker": "StuMngForm.cs",
+              "ToolTip": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\StuMngForm.cs [Design]",
+              "RelativeToolTip": "StuMngForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:01:08.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:53:02.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:58:36.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\LoginForm.resx",
+              "RelativeDocumentMoniker": "LoginForm.resx",
+              "ToolTip": "D:\\DXD\\PROGRAMMING\\C# Winform\\QLSV\\LoginForm.resx",
+              "RelativeToolTip": "LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-15T15:03:32.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

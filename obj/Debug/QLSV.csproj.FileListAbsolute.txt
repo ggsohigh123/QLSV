@@ -1,0 +1,13 @@
+D:\DXD\PROGRAMMING\C# Winform\QLSV\bin\Debug\QLSV.exe.config
+D:\DXD\PROGRAMMING\C# Winform\QLSV\bin\Debug\QLSV.exe
+D:\DXD\PROGRAMMING\C# Winform\QLSV\bin\Debug\QLSV.pdb
+D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.LoginForm.resources
+D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.MainForm.resources
+D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.exe
+D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.pdb
+D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.StuMngForm.resources
+D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.ClassMngForm.resources
