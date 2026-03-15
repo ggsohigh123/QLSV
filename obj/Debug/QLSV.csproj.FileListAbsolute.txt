@@ -11,3 +11,5 @@ D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.exe
 D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.pdb
 D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.StuMngForm.resources
 D:\DXD\PROGRAMMING\C# Winform\QLSV\obj\Debug\QLSV.ClassMngForm.resources
+D:\DXD\PROGRAMMING\C# Winform\QLSV\bin\Debug\QLSV.mdf
+D:\DXD\PROGRAMMING\C# Winform\QLSV\bin\Debug\QLSV_log.ldf

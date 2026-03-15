@@ -40,10 +40,10 @@
             this.btn_search = new System.Windows.Forms.Button();
             this.txt_search = new System.Windows.Forms.TextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.txt_HoTen = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.txt_HoTen = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvsinhvien)).BeginInit();
             this.groupBox3.SuspendLayout();
@@ -92,6 +92,7 @@
             this.btn_xoa.TabIndex = 25;
             this.btn_xoa.Text = "Xóa";
             this.btn_xoa.UseVisualStyleBackColor = true;
+            this.btn_xoa.Click += new System.EventHandler(this.btn_xoa_Click);
             // 
             // btn_sua
             // 
@@ -102,6 +103,7 @@
             this.btn_sua.TabIndex = 24;
             this.btn_sua.Text = "Sửa";
             this.btn_sua.UseVisualStyleBackColor = true;
+            this.btn_sua.Click += new System.EventHandler(this.btn_sua_Click);
             // 
             // btn_Them
             // 
@@ -112,6 +114,7 @@
             this.btn_Them.TabIndex = 23;
             this.btn_Them.Text = "Thêm";
             this.btn_Them.UseVisualStyleBackColor = true;
+            this.btn_Them.Click += new System.EventHandler(this.btn_Them_Click);
             // 
             // groupBox1
             // 
@@ -136,6 +139,8 @@
             this.dgvsinhvien.RowTemplate.Height = 24;
             this.dgvsinhvien.Size = new System.Drawing.Size(346, 248);
             this.dgvsinhvien.TabIndex = 0;
+            this.dgvsinhvien.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvsinhvien_CellClick);
+            this.dgvsinhvien.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvsinhvien_CellContentClick);
             // 
             // groupBox3
             // 
@@ -183,24 +188,6 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Thông tin Lớp quản lý";
             // 
-            // txt_HoTen
-            // 
-            this.txt_HoTen.Location = new System.Drawing.Point(66, 32);
-            this.txt_HoTen.Margin = new System.Windows.Forms.Padding(2);
-            this.txt_HoTen.Name = "txt_HoTen";
-            this.txt_HoTen.Size = new System.Drawing.Size(144, 20);
-            this.txt_HoTen.TabIndex = 0;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(4, 34);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(59, 13);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Mã lớp QL:";
-            // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(66, 64);
@@ -218,6 +205,24 @@
             this.label1.Size = new System.Drawing.Size(63, 13);
             this.label1.TabIndex = 4;
             this.label1.Text = "Tên lớp QL:";
+            // 
+            // txt_HoTen
+            // 
+            this.txt_HoTen.Location = new System.Drawing.Point(66, 32);
+            this.txt_HoTen.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_HoTen.Name = "txt_HoTen";
+            this.txt_HoTen.Size = new System.Drawing.Size(144, 20);
+            this.txt_HoTen.TabIndex = 0;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(4, 34);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(59, 13);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Mã lớp QL:";
             // 
             // ClassMngForm
             // 

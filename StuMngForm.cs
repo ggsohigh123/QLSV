@@ -31,5 +31,20 @@ namespace QLSV
         {
 
         }
+
+        private void dgvsinhvien_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0)
+            {
+                DataGridViewRow row = dgvsinhvien.Rows[e.RowIndex];
+
+                txt_HoTen.Text = row.Cells["HoTen"].Value.ToString();
+                txt_Email.Text = row.Cells["Email"].Value.ToString();
+                txt_GioiTinh.Text = row.Cells["GioiTinh"].Value.ToString();
+                txt_NgaySinh.Value = Convert.ToDateTime(row.Cells["NgaySinh"].Value);
+
+                cb_MaLop.SelectedValue = row.Cells["MaLop"].Value.ToString();
+            }
+        }
     }
 }

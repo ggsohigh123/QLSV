@@ -236,6 +236,7 @@
             this.dgvsinhvien.RowTemplate.Height = 24;
             this.dgvsinhvien.Size = new System.Drawing.Size(346, 248);
             this.dgvsinhvien.TabIndex = 0;
+            this.dgvsinhvien.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvsinhvien_CellClick);
             this.dgvsinhvien.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvsinhvien_CellContentClick);
             // 
             // btn_out
